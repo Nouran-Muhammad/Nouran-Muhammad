@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nouran-Muhammad
-- 👀 I’m interested in Software development and Machine Learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on projects on ML and Web development
+- 👀 I’m interested in Software development, Data Science and Deep Learning
+- 💞️ I’m looking to collaborate on projects on ML, DL and Web development
 - 📫 How to reach me nouranfakhreldin4@gmail.com
 
 <!---
